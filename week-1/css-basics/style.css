@@ -1,0 +1,29 @@
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    border: black solid;
+    display: inline-block;
+   
+}
+
+#first {
+    background-color: #2CB493;
+}
+
+#second {
+    background-color:#D16446 ;
+}
+
+.button {
+    background-color: #00B300;
+    border: #046004 solid;
+
+}
+
+#container{
+     
+    background-color : darkgray; 
+    box-shadow: black 5px 5px 5px;
+    display: inline-block;
+}

@@ -1,0 +1,1 @@
+const filteredUsers = users.filter((f) => f.address.zipcode[0] == 5);

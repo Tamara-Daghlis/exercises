@@ -1,0 +1,25 @@
+{
+    "name": "Cattle",
+    "weigh": {
+        "kilograms": 120,
+        "tons": 0.13227736 
+    },
+     "liveIn": [
+        "Europ",
+        "Asia",
+        "Americas",
+        "Australia"
+    ],
+    "isEndangered": "false",
+    "foods": [ 
+        "Grass",
+        "Grain"
+    ],
+
+    "otherAnimalsEatSameFood": [
+        "horses",
+        "sheep"
+    ],
+
+    "delicious": 3
+}

@@ -1,0 +1,1 @@
+const usersIDs = usersFiltered.map((u) => u.id);
